@@ -1,0 +1,2 @@
+# BinxApp
+Binx Privacy Policy
